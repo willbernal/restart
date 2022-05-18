@@ -14,3 +14,4 @@ for subject in passed:
 print("Tienes que repetir " + str(subjects))
 
 
+ejemplo de daño 
