@@ -4,4 +4,3 @@ print(type(myValue))
 print(str(myValue) + " es del tipo de dato: " + str(type(myValue)))
 
 
-aaaaaa
